@@ -9,7 +9,7 @@ https://github.com/Hinara/linux-vm-tools
 
 script will patch system if needed before installing and configuring XRPD to run in hv_sock mode.
 
-run installer scripte *twice*
+run installer script **twice**
 
 once the installation is complete, run in host powershell 
 
